@@ -1,6 +1,6 @@
 == SQL Injection Examples
 
-First, make sure to `bundle exec rake db:setup && bundle exec rake db:migrate &&bundle exec rake db:seed`. You'll find a little sqlite database in the _db_ directory.
+First, make sure to `bundle && bundle exec rake db:setup`. You'll find a little sqlite database in the _db_ directory.
 
 Now, go ahead and pull up a console (`bundle exec rails c`). In that console, you can try out
 
